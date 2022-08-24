@@ -1,0 +1,24 @@
+body {
+  background-color: blueviolet;
+  padding: auto;
+}
+h1{
+    columns: navy;
+    font-size: larger;
+    align-items: center;
+}
+h2{
+        font-size: larger;
+        font-weight: 700;
+}
+
+h3{
+    font-size: large;
+    font-style: italic;
+     color: aqua;
+}
+
+p{
+    color: rgb(194, 245, 211);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

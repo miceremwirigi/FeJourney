@@ -1,14 +1,30 @@
-img {
-    width: 100px;
-    border-radius: 100px;
-    float: left;
-    margin-right: 10px;
+.mypic {
+  width: 100px;
+  border-radius: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.linkimage {
+  width: 100px;
+  border-radius: 50%;
+}
+.coffee {
+  width: 200px;
+  height: auto;
+  object-fit: cover;
 }
 
 p.usernames {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .messages {
-    font-style: italic;
+  font-style: italic;
 }
+
+em {
+  color: red;
+  font-style: normal;
+}
+

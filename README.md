@@ -1,2 +1,3 @@
 # FeJourney
-  Journey to front-end mastery  
+
+Journey to front-end mastery
